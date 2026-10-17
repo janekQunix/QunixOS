@@ -1,0 +1,20 @@
+# ISO files (too large for repo)
+*.iso
+*.img
+
+# Kernel and package builds
+*.o
+*.ko
+*.pkg.tar.zst
+*.tar.gz
+*.tar.xz
+
+# Working directories
+/build/
+/out/
+/iso/
+/.cache/
+
+# OS junk
+.DS_Store
+Thumbs.db
